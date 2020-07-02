@@ -1,0 +1,9 @@
+discord.py
+asyncio
+PIL
+requests
+io
+os
+sqlite3
+nekos
+random
